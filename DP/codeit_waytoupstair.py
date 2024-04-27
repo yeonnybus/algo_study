@@ -1,4 +1,5 @@
-# 높이 n개의 계단을 올라가는 방법을 리턴한다
+# 높이 stair인 계단을, possible_steps 배열에 있는 만큼 한 번에 오를 수 있다.
+# 오르는 방법의 수를 리턴한다
 def staircase(stairs, possible_steps):
     # 여기에 코드를 작성하세요
 
